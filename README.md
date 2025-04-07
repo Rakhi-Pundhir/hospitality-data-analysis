@@ -55,3 +55,18 @@ AtliQ Grands, a luxury hotel chain with over two decades of experience, is facin
 
 ---
 
+## ✨ Impact of This Analysis
+
+- Identified underperforming cities like Bangalore, enabling focused marketing and operational adjustments.
+
+- Analysis of ADR, RevPAR, and realization percentages supports smarter pricing and revenue management.
+
+- Insights on weekday vs. weekend performance help allocate staff and services based on demand patterns.
+
+- Finding links between hotel ratings and occupancy suggests the importance of improving customer reviews to boost bookings.
+
+- Interactive dashboards enable revenue managers to explore KPIs in real-time and respond quickly to performance shifts.
+
+---
+
+
